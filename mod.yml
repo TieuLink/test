@@ -1,0 +1,246 @@
+title: Organisation_exclusifs_FM_VF_1.1 (KH2PCPATCH)
+originalAuthor: TieuLink
+description: test
+specifications: 0
+dependencies: 
+assets:
+- name: remastered\obj\B_EX370.a.fr\voice\battle\us\n_zexion
+  method: copy
+  platform: pc
+  package: kh2_fifth
+  multi: 
+  source:
+  - name: remastered\obj\B_EX370.a.fr\voice\battle\us\n_zexion
+    method: 
+    platform: 
+    package: 
+    multi: 
+    source: 
+    required: false
+    type: 
+    motionsetType: Default
+    language: 
+    isSwizzled: false
+    index: 0
+  required: false
+  type: 
+  motionsetType: Default
+  language: 
+  isSwizzled: false
+  index: 0
+- name: remastered\obj\B_EX370.a.gr\voice\battle\us\n_zexion
+  method: copy
+  platform: pc
+  package: kh2_fifth
+  multi: 
+  source:
+  - name: remastered\obj\B_EX370.a.gr\voice\battle\us\n_zexion
+    method: 
+    platform: 
+    package: 
+    multi: 
+    source: 
+    required: false
+    type: 
+    motionsetType: Default
+    language: 
+    isSwizzled: false
+    index: 0
+  required: false
+  type: 
+  motionsetType: Default
+  language: 
+  isSwizzled: false
+  index: 0
+- name: remastered\obj\B_EX370.a.it\voice\battle\us\n_zexion
+  method: copy
+  platform: pc
+  package: kh2_fifth
+  multi: 
+  source:
+  - name: remastered\obj\B_EX370.a.it\voice\battle\us\n_zexion
+    method: 
+    platform: 
+    package: 
+    multi: 
+    source: 
+    required: false
+    type: 
+    motionsetType: Default
+    language: 
+    isSwizzled: false
+    index: 0
+  required: false
+  type: 
+  motionsetType: Default
+  language: 
+  isSwizzled: false
+  index: 0
+- name: remastered\obj\B_EX370.a.sp\voice\battle\us\n_zexion
+  method: copy
+  platform: pc
+  package: kh2_fifth
+  multi: 
+  source:
+  - name: remastered\obj\B_EX370.a.sp\voice\battle\us\n_zexion
+    method: 
+    platform: 
+    package: 
+    multi: 
+    source: 
+    required: false
+    type: 
+    motionsetType: Default
+    language: 
+    isSwizzled: false
+    index: 0
+  required: false
+  type: 
+  motionsetType: Default
+  language: 
+  isSwizzled: false
+  index: 0
+- name: remastered\obj\B_EX370.a.us\voice\battle\us\n_zexion
+  method: copy
+  platform: pc
+  package: kh2_fifth
+  multi: 
+  source:
+  - name: remastered\obj\B_EX370.a.us\voice\battle\us\n_zexion
+    method: 
+    platform: 
+    package: 
+    multi: 
+    source: 
+    required: false
+    type: 
+    motionsetType: Default
+    language: 
+    isSwizzled: false
+    index: 0
+  required: false
+  type: 
+  motionsetType: Default
+  language: 
+  isSwizzled: false
+  index: 0
+- name: remastered\obj\B_EX400.a.us\voice\battle\us\n_larxene
+  method: copy
+  platform: pc
+  package: kh2_fifth
+  multi: 
+  source:
+  - name: remastered\obj\B_EX400.a.us\voice\battle\us\n_larxene
+    method: 
+    platform: 
+    package: 
+    multi: 
+    source: 
+    required: false
+    type: 
+    motionsetType: Default
+    language: 
+    isSwizzled: false
+    index: 0
+  required: false
+  type: 
+  motionsetType: Default
+  language: 
+  isSwizzled: false
+  index: 0
+- name: remastered\obj\N_CM000_BTL.a.us\voice\battle\us\n_marluxia
+  method: copy
+  platform: pc
+  package: kh2_fifth
+  multi: 
+  source:
+  - name: remastered\obj\N_CM000_BTL.a.us\voice\battle\us\n_marluxia
+    method: 
+    platform: 
+    package: 
+    multi: 
+    source: 
+    required: false
+    type: 
+    motionsetType: Default
+    language: 
+    isSwizzled: false
+    index: 0
+  required: false
+  type: 
+  motionsetType: Default
+  language: 
+  isSwizzled: false
+  index: 0
+- name: remastered\obj\N_CM020_BTL.a.us\voice\battle\us\n_lexaeus
+  method: copy
+  platform: pc
+  package: kh2_fifth
+  multi: 
+  source:
+  - name: remastered\obj\N_CM020_BTL.a.us\voice\battle\us\n_lexaeus
+    method: 
+    platform: 
+    package: 
+    multi: 
+    source: 
+    required: false
+    type: 
+    motionsetType: Default
+    language: 
+    isSwizzled: false
+    index: 0
+  required: false
+  type: 
+  motionsetType: Default
+  language: 
+  isSwizzled: false
+  index: 0
+- name: remastered\obj\N_CM020_BTL.a.us\voice\battle\us\n_lexaeus1
+  method: copy
+  platform: pc
+  package: kh2_fifth
+  multi: 
+  source:
+  - name: remastered\obj\N_CM020_BTL.a.us\voice\battle\us\n_lexaeus1
+    method: 
+    platform: 
+    package: 
+    multi: 
+    source: 
+    required: false
+    type: 
+    motionsetType: Default
+    language: 
+    isSwizzled: false
+    index: 0
+  required: false
+  type: 
+  motionsetType: Default
+  language: 
+  isSwizzled: false
+  index: 0
+- name: remastered\obj\N_CM040_BTL.a.us\voice\battle\us\n_vexen
+  method: copy
+  platform: pc
+  package: kh2_fifth
+  multi: 
+  source:
+  - name: remastered\obj\N_CM040_BTL.a.us\voice\battle\us\n_vexen
+    method: 
+    platform: 
+    package: 
+    multi: 
+    source: 
+    required: false
+    type: 
+    motionsetType: Default
+    language: 
+    isSwizzled: false
+    index: 0
+  required: false
+  type: 
+  motionsetType: Default
+  language: 
+  isSwizzled: false
+  index: 0
